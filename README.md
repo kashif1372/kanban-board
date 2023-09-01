@@ -11,6 +11,11 @@ Drag-and-drop functionality for easy task management.
 User authentication and authorization for secure access.
 Mobile-responsive design for access on different devices.
 
+
+![Screenshot (173)](https://github.com/kashif1372/kanban-board/assets/67710001/85430368-106d-40d9-9bd0-8d5c5849209f)
+
+
+
 **Live URL**
 __https://kanban-board-lzae4rigt-kashif1372.vercel.app/__
 
@@ -58,10 +63,6 @@ For any inquiries or feedback, you can contact the project maintainer:
 Name: **Kashif Sheikh**
 Email: **kashifsheikh1372@gamil.com**
 Thank you for using the Kanban Board web application!
-
-
-
-
 
 
 
